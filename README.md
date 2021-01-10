@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tazbirul-haque/](https://www.linkedin.com/in/tazbirul-haque/)
 
-- ⚡ Fun fact **coffee, coke <3**
+- ⚡ Fun fact **coffee, coke ❤️**
 
 
 <h3 align="left">Languages and Tools:</h3>
