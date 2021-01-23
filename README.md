@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm tazbirul94</h1>
+<h1 align="center">Hi 👋, I'm tazbirul haque</h1>
 <h3 align="center">A passionate frontend, backend, web api and mobile developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazbirul94&label=Profile%20views&color=0e75b6&style=flat" alt="tazbirul94" /> </p>
