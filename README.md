@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend, backend, web api and mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazbirul94&label=Profile%20views&color=0e75b6&style=flat" alt="tazbirul94" /> </p>
+- Click for the entire resume (https://tazbirul94.github.io/myresume/)
 
 - 🔭 I’m currently working on [smartbot](https://github.com/tazbirul94/smartbot)
 
