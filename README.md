@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazbirul94&label=Profile%20views&color=0e75b6&style=flat" alt="tazbirul94" /> </p>
 - Click for the entire resume (https://tazbirul94.github.io/myresume/)
 
-- 🔭 I’m currently working on [smartbot](https://github.com/tazbirul94/smartbot)
+#- 🔭 I’m currently working on [smartbot](https://github.com/tazbirul94/smartbot)
 
-- 🌱 I’m currently learning **react native and flutter**
+- 🌱 I’m currently learning **react and Azure Devops**
 
 - 👯 I’m looking to collaborate on [EasyTermin](https://github.com/tazbirul94/EasyTermin)
 
