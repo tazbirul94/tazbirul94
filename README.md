@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **rabbitMQ projects**
 
-- 🌱 I’m currently learning **Powerbuilder, grafana, Quartz acheduling**
+- 🌱 I’m currently learning **Powerbuilder, Grafana, Quartz Scheduling**
 
 - 👯 I’m looking to collaborate on **in house modernization at Eventim**
 
