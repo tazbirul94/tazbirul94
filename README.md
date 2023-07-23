@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Powerbuilder, Grafana, Quartz Scheduling**
 
-- 👯 I’m looking to collaborate on **in house modernization at Eventim**
+- 👯 I’m looking to collaborate on **backend modernization at Eventim**
 
 - 💬 Ask me about **C#,Asp.Net, MS SQL, Azure DevOps**
 
